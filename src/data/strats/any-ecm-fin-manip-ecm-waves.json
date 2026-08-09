@@ -1,0 +1,1182 @@
+[
+ {
+  "label": "Balamb Island",
+  "baseValue": 126,
+  "button": true,
+  "categories": [
+   {
+    "label": "Random Encounters",
+    "subCategories": [
+     {
+      "label": "",
+      "times": 6,
+      "type": "list",
+      "value": [
+       {
+        "label": "No Battle",
+        "value": 0
+       },
+       {
+        "label": "T-Rex / Caterchipillar",
+        "value": 10
+       },
+       {
+        "label": "Bite Bug x2 & Caterchipillar",
+        "value": 18
+       },
+       {
+        "label": "Bite Bug / Glacial Eye",
+        "value": 11
+       },
+       {
+        "label": "Bite Bug x2",
+        "value": 15
+       },
+       {
+        "label": "Bite Bug x3",
+        "value": 19
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Bat Fights (1 Squall Attack already included)",
+    "subCategories": [
+     {
+      "label": "Squall Physical Attack :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "1",
+        "value": 2
+       },
+       {
+        "label": "2",
+        "value": 4
+       }
+      ]
+     },
+     {
+      "label": "Camera (if required):",
+      "type": "radiobutton",
+      "value": [
+       {
+        "label": "1 Character",
+        "value": 2
+       },
+       {
+        "label": "2 Characters",
+        "value": 3
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Ifrit Fight",
+    "subCategories": [
+     {
+      "label": "3 Squall Limit Breaks :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "2 Renzo",
+        "value": -1
+       },
+       {
+        "label": "4 Renzo",
+        "value": 1
+       }
+      ]
+     },
+     {
+      "label": "Squall Physical Attack : ",
+      "times": 1,
+      "type": "list",
+      "value": [
+       {
+        "label": "3",
+        "value": 6
+       },
+       {
+        "label": "0",
+        "value": 0
+       },
+       {
+        "label": "1",
+        "value": 2
+       },
+       {
+        "label": "2",
+        "value": 4
+       },
+       {
+        "label": "4",
+        "value": 8
+       },
+       {
+        "label": "5",
+        "value": 10
+       },
+       {
+        "label": "6",
+        "value": 12
+       }
+      ]
+     },
+     {
+      "label": "Quistis Limit :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "1",
+        "value": 1
+       },
+       {
+        "label": "2",
+        "value": 2
+       },
+       {
+        "label": "3",
+        "value": 3
+       }
+      ]
+     },
+     {
+      "label": "Ifrit Punch :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "1",
+        "value": 2
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Fish's Fins Fight 1",
+    "subCategories": [
+     {
+      "label": "Camera :",
+      "type": "radiobutton",
+      "value": [
+       {
+        "label": "1 Character",
+        "value": 2
+       },
+       {
+        "label": "2 Characters",
+        "value": 3
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Fin Strat ",
+    "subCategories": [
+     {
+      "label": "",
+      "times": 1,
+      "type": "list",
+      "value": [
+       {
+        "label": "Kai Manip",
+        "value": 0
+       },
+       {
+        "label": "Kai Manip 1.5 w/Laser",
+        "value": 27
+       },
+       {
+        "label": "Kai Manip 1.5 w/Thunders",
+        "value": 26
+       },
+       {
+        "label": "Quez Manip",
+        "value": -1
+       },
+       {
+        "label": "Quez 1.5 w/Thunders",
+        "value": 25
+       },
+       {
+        "label": "Quez 1.5 w/Laser",
+        "value": 26
+       },
+       {
+        "label": "2 Quez Manip",
+        "value": 37
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "label": "2nd Fish Fight (if required) ",
+    "subCategories": [
+     {
+      "label": "Squall Physical Attack :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "1",
+        "value": 2
+       },
+       {
+        "label": "2",
+        "value": 4
+       }
+      ]
+     },
+     {
+      "label": "No Float ? :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "One",
+        "value": -11
+       },
+       {
+        "label": "Both",
+        "value": -22
+       }
+      ]
+     },
+     {
+      "label": "Camera:",
+      "type": "radiobutton",
+      "value": [
+       {
+        "label": "1 Character",
+        "value": 2
+       },
+       {
+        "label": "2 Characters",
+        "value": 3
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "label": "Dollet",
+  "baseValue": 157,
+  "button": false,
+  "categories": [
+   {
+    "label": "Dollet Fight 1",
+    "subCategories": [
+     {
+      "label": "Zell Physical Attack :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "1",
+        "value": 4
+       },
+       {
+        "label": "2",
+        "value": 8
+       }
+      ]
+     },
+     {
+      "label": "Squall Physical Attack :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "1",
+        "value": 2
+       },
+       {
+        "label": "2",
+        "value": 4
+       }
+      ]
+     },
+     {
+      "label": "Seifer Physical Attack :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "1",
+        "value": 2
+       },
+       {
+        "label": "2",
+        "value": 4
+       },
+       {
+        "label": "3",
+        "value": 6
+       }
+      ]
+     },
+     {
+      "label": "G-Soldier Physical Attack :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "1",
+        "value": 2
+       },
+       {
+        "label": "2",
+        "value": 4
+       },
+       {
+        "label": "3",
+        "value": 6
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Dollet Fight 2",
+    "subCategories": [
+     {
+      "label": "Zell Physical Attack :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "1",
+        "value": 4
+       },
+       {
+        "label": "2",
+        "value": 8
+       }
+      ]
+     },
+     {
+      "label": "Squall Physical Attack :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "1",
+        "value": 2
+       },
+       {
+        "label": "2",
+        "value": 4
+       }
+      ]
+     },
+     {
+      "label": "Seifer Physical Attack :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "1",
+        "value": 2
+       },
+       {
+        "label": "2",
+        "value": 4
+       },
+       {
+        "label": "3",
+        "value": 6
+       }
+      ]
+     },
+     {
+      "label": "G-Soldier Physical Attack :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "1",
+        "value": 2
+       },
+       {
+        "label": "2",
+        "value": 4
+       },
+       {
+        "label": "3",
+        "value": 6
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Dollet Fight 3",
+    "subCategories": [
+     {
+      "label": "Zell Physical Attack :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "1",
+        "value": 4
+       },
+       {
+        "label": "2",
+        "value": 8
+       }
+      ]
+     },
+     {
+      "label": "Squall Physical Attack :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "1",
+        "value": 2
+       },
+       {
+        "label": "2",
+        "value": 4
+       }
+      ]
+     },
+     {
+      "label": "Seifer Physical Attack :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "1",
+        "value": 2
+       },
+       {
+        "label": "2",
+        "value": 4
+       },
+       {
+        "label": "3",
+        "value": 6
+       }
+      ]
+     },
+     {
+      "label": "G-Soldier Physical Attack :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "1",
+        "value": 2
+       },
+       {
+        "label": "2",
+        "value": 4
+       },
+       {
+        "label": "3",
+        "value": 6
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Dollet Fight 4",
+    "subCategories": [
+     {
+      "label": "Zell Physical Attack :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "1",
+        "value": 4
+       },
+       {
+        "label": "2",
+        "value": 8
+       }
+      ]
+     },
+     {
+      "label": "Squall Physical Attack :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "1",
+        "value": 2
+       },
+       {
+        "label": "2",
+        "value": 4
+       }
+      ]
+     },
+     {
+      "label": "Seifer Physical Attack :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "1",
+        "value": 2
+       },
+       {
+        "label": "2",
+        "value": 4
+       },
+       {
+        "label": "3",
+        "value": 6
+       }
+      ]
+     },
+     {
+      "label": "G-Soldier Physical Attack :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "1",
+        "value": 2
+       },
+       {
+        "label": "2",
+        "value": 4
+       },
+       {
+        "label": "3",
+        "value": 6
+       }
+      ]
+     },
+     {
+      "label": "_______________________",
+      "type": "",
+      "value": []
+     },
+     {
+      "label": "Camera :",
+      "type": "radiobutton",
+      "value": [
+       {
+        "label": "1 Character",
+        "value": 2
+       },
+       {
+        "label": "1 to 1 Character",
+        "value": 3
+       },
+       {
+        "label": "3 Characters",
+        "value": 4
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "label": "Anacondaur",
+  "baseValue": "-1",
+  "button": false,
+  "baseCountPage": "Dollet",
+  "categories": [
+   {
+    "label": "1st Bridge Fight",
+    "subCategories": [
+     {
+      "label": "G-Soldier Physical Attack :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "1",
+        "value": 2
+       },
+       {
+        "label": "2",
+        "value": 4
+       },
+       {
+        "label": "3",
+        "value": 6
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "label": "3 Soldier Fight",
+    "subCategories": [
+     {
+      "label": "Zell Physical Attack :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "1",
+        "value": 4
+       },
+       {
+        "label": "2",
+        "value": 8
+       }
+      ]
+     },
+     {
+      "label": "Squall Physical Attack :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "1",
+        "value": 2
+       },
+       {
+        "label": "2",
+        "value": 4
+       }
+      ]
+     },
+     {
+      "label": "Seifer Physical Attack :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "1",
+        "value": 2
+       },
+       {
+        "label": "2",
+        "value": 4
+       },
+       {
+        "label": "3",
+        "value": 6
+       }
+      ]
+     },
+     {
+      "label": "G-Soldier Physical Attack :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "1",
+        "value": 2
+       },
+       {
+        "label": "2",
+        "value": 4
+       },
+       {
+        "label": "3",
+        "value": 6
+       }
+      ]
+     },
+     {
+      "label": "_______________________",
+      "type": "",
+      "value": []
+     },
+     {
+      "label": "Mountain Soldier Fight ? :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "Yes",
+        "value": -8
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Anacondaur Fight",
+    "subCategories": [
+     {
+      "label": "Squeeze :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "1",
+        "value": 3
+       },
+       {
+        "label": "2",
+        "value": 6
+       },
+       {
+        "label": "3",
+        "value": 9
+       }
+      ]
+     },
+     {
+      "label": "Dark Mist :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "1",
+        "value": 1
+       },
+       {
+        "label": "2",
+        "value": 2
+       }
+      ]
+     },
+     {
+      "label": "_______________________",
+      "type": "",
+      "value": []
+     },
+     {
+      "label": "Zell Physical Attack :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "1",
+        "value": 4
+       },
+       {
+        "label": "2",
+        "value": 8
+       },
+       {
+        "label": "3",
+        "value": 12
+       }
+      ]
+     },
+     {
+      "label": "Squall Physical Attack :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "1",
+        "value": 2
+       },
+       {
+        "label": "2",
+        "value": 4
+       }
+      ]
+     },
+     {
+      "label": "Seifer Physical Attack :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "1",
+        "value": 2
+       },
+       {
+        "label": "2",
+        "value": 4
+       },
+       {
+        "label": "3",
+        "value": 6
+       }
+      ]
+     },
+     {
+      "label": "Extra Renzo :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "+1 (2 Total)",
+        "value": 1
+       }
+      ]
+     },
+     {
+      "label": "_______________________",
+      "type": "",
+      "value": []
+     },
+     {
+      "label": "Camera : ",
+      "type": "radiobutton",
+      "value": [
+       {
+        "label": "1 Character",
+        "value": 2
+       },
+       {
+        "label": "1 to 1 Character",
+        "value": 3
+       },
+       {
+        "label": "3 Characters",
+        "value": 4
+       }
+      ]
+     },
+     {
+      "label": "1-2 Survived Camera :",
+      "type": "radiobutton",
+      "value": [
+       {
+        "label": "1 Character",
+        "value": 2
+       },
+       {
+        "label": "2 Characters",
+        "value": 3
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "label": "Elvoret + X-ATM092",
+  "baseValue": "-1",
+  "button": false,
+  "baseCountPage": "Dollet",
+  "categories": [
+   {
+    "label": "Biggs/Wedge & Elvoret Fight",
+    "subCategories": [
+     {
+      "label": "Squall Physical Attack :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "1",
+        "value": 2
+       },
+       {
+        "label": "2",
+        "value": 4
+       }
+      ]
+     },
+     {
+      "label": "Zell Physical Attack :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "1",
+        "value": 4
+       },
+       {
+        "label": "2",
+        "value": 8
+       },
+       {
+        "label": "3",
+        "value": 12
+       }
+      ]
+     },
+     {
+      "label": "Biggs Machine Gun :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "1",
+        "value": 5
+       },
+       {
+        "label": "2",
+        "value": 10
+       },
+       {
+        "label": "3",
+        "value": 15
+       }
+      ]
+     },
+     {
+      "label": "Biggs Arm Charge :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "1",
+        "value": 4
+       },
+       {
+        "label": "2",
+        "value": 8
+       },
+       {
+        "label": "3",
+        "value": 12
+       }
+      ]
+     },
+     {
+      "label": "Wedge Fire :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "1",
+        "value": 28
+       },
+       {
+        "label": "2",
+        "value": 56
+       }
+      ]
+     },
+     {
+      "label": "_______________________",
+      "type": "",
+      "value": []
+     },
+     {
+      "label": "Extra Renzo :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "+1 (5 Total)",
+        "value": 1
+       }
+      ]
+     },
+     {
+      "label": "Elvoret Spell :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "1",
+        "value": 12
+       },
+       {
+        "label": "2",
+        "value": 24
+       },
+       {
+        "label": "3",
+        "value": 36
+       }
+      ]
+     },
+     {
+      "label": "Elvoret Storm Breath :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "1",
+        "value": 1
+       },
+       {
+        "label": "2",
+        "value": 2
+       }
+      ]
+     },
+     {
+      "label": "Camera :",
+      "type": "radiobutton",
+      "value": [
+       {
+        "label": "1 to 1 Character",
+        "value": 2
+       },
+       {
+        "label": "3 Characters",
+        "value": 3
+       },
+       {
+        "label": "1-2 Survived",
+        "value": 2
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "label": "X-ATM092 Fight",
+    "subCategories": [
+     {
+      "label": "Squall Physical Attack :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "1",
+        "value": 2
+       },
+       {
+        "label": "2",
+        "value": 4
+       }
+      ]
+     },
+     {
+      "label": "Zell Physical Attack :",
+      "times": 1,
+      "type": "list",
+      "value": [
+       {
+        "label": "0",
+        "value": 0
+       },
+       {
+        "label": "1",
+        "value": 4
+       },
+       {
+        "label": "2",
+        "value": 8
+       },
+       {
+        "label": "3",
+        "value": 12
+       },
+       {
+        "label": "4",
+        "value": 16
+       },
+       {
+        "label": "5",
+        "value": 20
+       },
+       {
+        "label": "6",
+        "value": 24
+       }
+      ]
+     },
+     {
+      "label": "Extra :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "Ray Bomb",
+        "value": 1
+       }
+      ]
+     },
+     {
+      "label": "Squall Limit Break : ",
+      "times": 1,
+      "type": "list",
+      "value": [
+       {
+        "label": "6",
+        "value": 5
+       },
+       {
+        "label": "0",
+        "value": -1
+       },
+       {
+        "label": "1",
+        "value": 0
+       },
+       {
+        "label": "2",
+        "value": 1
+       },
+       {
+        "label": "3",
+        "value": 2
+       },
+       {
+        "label": "4",
+        "value": 3
+       },
+       {
+        "label": "5",
+        "value": 4
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Elite Soldier (red) Fight :",
+    "subCategories": [
+     {
+      "label": "Yes :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "",
+        "value": 13
+       }
+      ]
+     },
+     {
+      "label": "Zell Physical Attack :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "1",
+        "value": 4
+       },
+       {
+        "label": "2",
+        "value": 8
+       },
+       {
+        "label": "3",
+        "value": 12
+       }
+      ]
+     },
+     {
+      "label": "Squall Physical Attack :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "1",
+        "value": 2
+       },
+       {
+        "label": "2",
+        "value": 4
+       }
+      ]
+     },
+     {
+      "label": "Machine Gun :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "1",
+        "value": 5
+       },
+       {
+        "label": "2",
+        "value": 10
+       },
+       {
+        "label": "3",
+        "value": 15
+       }
+      ]
+     },
+     {
+      "label": "Arm Charge :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "1",
+        "value": 4
+       },
+       {
+        "label": "2",
+        "value": 8
+       },
+       {
+        "label": "3",
+        "value": 12
+       }
+      ]
+     },
+     {
+      "label": "Extra Tower Fight ? :",
+      "type": "buttons",
+      "value": [
+       {
+        "label": "Yes, 1 Geezard!",
+        "value": 14
+       },
+       {
+        "label": "Yes, 3 soldiers and no RED!",
+        "value": 9
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]
