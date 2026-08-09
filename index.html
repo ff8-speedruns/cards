@@ -4,8 +4,26 @@
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/cards/favicon.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>FF8 Card Manip</title>
-    <script type="module" crossorigin src="/cards/assets/index-4huzD8Cy.js"></script>
+    <meta name="description" content="Early game RNG tracking for the FF8 Zell card manip." />
+    <title>FF8 Card RNG Manip</title>
+    <script>
+      // Resolve the saved colour scheme before first paint. Shared key, so the
+      // choice carries over from the hub. See @ff8-speedruns/ui.
+      try {
+        var s = window.localStorage.getItem('ff8-color-scheme');
+        var scheme = s === 'light' || s === 'dark' || s === 'auto' ? s : 'auto';
+        document.documentElement.setAttribute(
+          'data-mantine-color-scheme',
+          scheme !== 'auto'
+            ? scheme
+            : window.matchMedia('(prefers-color-scheme: dark)').matches
+              ? 'dark'
+              : 'light'
+        );
+      } catch (e) {}
+    </script>
+    <script type="module" crossorigin src="/cards/assets/index-B5mGs2Eh.js"></script>
+    <link rel="stylesheet" crossorigin href="/cards/assets/index-C5siojF7.css">
   </head>
   <body>
     <div id="root"></div>
